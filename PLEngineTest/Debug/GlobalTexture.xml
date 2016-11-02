@@ -1,0 +1,41 @@
+<UI>
+	<Texture name="UI-UI" filename="UI-UI.dds" DataType="DDS" UsageType="Normal"></Texture>
+	<Texture name="UI-HB" filename="UI-HB.dds" DataType="DDS" UsageType="Normal"></Texture>
+	<Texture name="MAP1" filename="MAP1.dds" DataType="DDS" UsageType="Normal"></Texture>
+	<Texture name="MAP2" filename="MAP2.dds" DataType="DDS" UsageType="Normal"></Texture>
+</UI>
+<Scene name="E0" ><-->一次设备区</-->
+	<Texture name="MAP1" filename="MAP1.dds" DataType="DDS" UsageType="Normal"></Texture>
+	<Texture name="00VX01_01" filename="00VX01_01.dds" DataType="DDS" UsageType="Normal"></Texture>
+	<Texture name="50BK01_08" filename="50BK01_08.dds" DataType="DDS" UsageType="Normal"></Texture>
+	<Texture name="50ZB01_03" filename="50ZB01_03.dds" DataType="DDS" UsageType="Normal"></Texture>
+	<Texture name="50ZB01_05" filename="50ZB01_05.dds" DataType="DDS" UsageType="Normal"></Texture>
+	<Texture name="50ZB01_06" filename="50ZB01_06.dds" DataType="DDS" UsageType="Normal"></Texture>
+	<Texture name="66BK01_05" filename="66BK01_05.dds" DataType="DDS" UsageType="Normal"></Texture>
+	<Texture name="66ZY01_01" filename="66ZY01_01.dds" DataType="DDS" UsageType="Normal"></Texture>
+	<Texture name="66ZY01_02" filename="66ZY01_02.dds" DataType="DDS" UsageType="Normal"></Texture>
+	<Texture name="50DK01_05" filename="50DK01_05.dds" DataType="DDS" UsageType="Normal"></Texture>
+	<Texture name="50DK01_06" filename="50DK01_06.dds" DataType="DDS" UsageType="Normal"></Texture>
+	<Texture name="GuaPai" filename="GuaPai.dds" DataType="DDS" UsageType="Normal"></Texture>
+</Scene>
+<Scene name="E1" ><-->主变及66Kv继电器室、低压室</--><-->C小室</-->
+	<Texture name="GuaPai" filename="GuaPai.dds" DataType="DDS" UsageType="Normal"></Texture>
+</Scene>
+<Scene name="E2" ><-->220Kv继电器室I</--><-->D小室</-->
+	<Texture name="GuaPai" filename="GuaPai.dds" DataType="DDS" UsageType="Normal"></Texture>
+</Scene>
+<Scene name="E3" ><-->220Kv继电器室II</--><-->E小室</-->
+	<Texture name="GuaPai" filename="GuaPai.dds" DataType="DDS" UsageType="Normal"></Texture>
+</Scene>
+<Scene name="E4" ><-->500Kv继电器室I</--><-->A小室</-->
+	<Texture name="GuaPai" filename="GuaPai.dds" DataType="DDS" UsageType="Normal"></Texture>
+</Scene>
+<Scene name="E5" ><-->500Kv继电器室II</--><-->B小室</-->
+	<Texture name="GuaPai" filename="GuaPai.dds" DataType="DDS" UsageType="Normal"></Texture>
+</Scene>
+<Scene name="E6" ><-->工具室+柜子（柜子用的子坐标）</-->
+	<Texture name="GuaPai" filename="GuaPai.dds" DataType="DDS" UsageType="Normal"></Texture>
+</Scene>
+<Scene name="E7" ><-->主控室</-->
+	<Texture name="GuaPai" filename="GuaPai.dds" DataType="DDS" UsageType="Normal"></Texture>
+</Scene>

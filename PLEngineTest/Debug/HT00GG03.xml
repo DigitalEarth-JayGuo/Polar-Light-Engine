@@ -1,0 +1,150 @@
+<SubObject name="000"  isMeshLOD ="true"  rotateType="0" isVisiable="true" EquipmentType= "Main">
+    <translateX>0.0000</translateX>
+    <translateY>0.0000</translateY>
+    <translateZ>0.0000</translateZ>
+    <rotateX>0.0000</rotateX>
+    <rotateY>0.0000</rotateY>
+    <rotateZ>0.0000</rotateZ>
+    <scalX>1.0</scalX>
+    <scalY>1.0</scalY>
+    <scalZ>1.0</scalZ>
+    <VertexPile UsageLevel="0">
+    <VertexPackage UsagePriority="0" Distance="1000.0" UsageType="Static">
+    		<VertexStream name="HT00GG01_ZT00H">
+					<Dye>
+              <DyeDiffuse><alpha>1.0</alpha>
+                  <red>0.80</red>
+                  <green>0.80</green>
+                  <blue>0.80</blue>
+              </DyeDiffuse>
+              <DyeSpecular Power="0.0" ><alpha>1.0</alpha>
+	          			<red>0.0</red>
+                  <green>0.00</green>
+                  <blue>0.00</blue>
+              </DyeSpecular>
+					</Dye>
+				</VertexStream>
+    		<Texture name="00VY01_02"></Texture>
+    </VertexPackage>
+    </VertexPile>
+</SubObject>
+<SubObject name="001"  isMeshLOD ="true"  rotateType="0" isVisiable="true" EquipmentType= "MachineBox" EnablePick="true">
+    <translateX>0.0000</translateX>
+    <translateY>0.9715</translateY>
+    <translateZ>0.2607</translateZ>
+    <rotateX>0.0000</rotateX>
+    <rotateY>180.0000</rotateY>
+    <rotateZ>0.0000</rotateZ>
+    <scalX>1.0</scalX>
+    <scalY>1.0</scalY>
+    <scalZ>1.0</scalZ>
+    <VertexPile UsageLevel="0">
+    <VertexPackage UsagePriority="0" Distance="1000.0" UsageType="Static">
+    		<VertexStream name="HT00GG01_MM01H">
+					<Dye>
+              <DyeDiffuse><alpha>1.0</alpha>
+                  <red>0.80</red>
+                  <green>0.80</green>
+                  <blue>0.80</blue>
+              </DyeDiffuse>
+              <DyeSpecular Power="0.0" ><alpha>1.0</alpha>
+	          			<red>0.0</red>
+                  <green>0.00</green>
+                  <blue>0.00</blue>
+              </DyeSpecular>
+					</Dye>
+				</VertexStream>
+    		<Texture name="00GG01_01"></Texture>
+    </VertexPackage>
+    </VertexPile>
+</SubObject>
+<SubObject name="002"  isMeshLOD ="true"  rotateType="0" isVisiable="true" EquipmentType= "MachineBox" EnablePick="true">
+    <translateX>0.0000</translateX>
+    <translateY>0.9715</translateY>
+    <translateZ>-0.2607</translateZ>
+    <rotateX>0.0000</rotateX>
+    <rotateY>0.0000</rotateY>
+    <rotateZ>0.0000</rotateZ>
+    <scalX>1.0</scalX>
+    <scalY>1.0</scalY>
+    <scalZ>1.0</scalZ>
+    <VertexPile UsageLevel="0">
+    <VertexPackage UsagePriority="0" Distance="1000.0" UsageType="Static">
+    		<VertexStream name="HT00GG01_MM01H">
+					<Dye>
+              <DyeDiffuse><alpha>1.0</alpha>
+                  <red>0.80</red>
+                  <green>0.80</green>
+                  <blue>0.80</blue>
+              </DyeDiffuse>
+              <DyeSpecular Power="0.0" ><alpha>1.0</alpha>
+	          			<red>0.0</red>
+                  <green>0.00</green>
+                  <blue>0.00</blue>
+              </DyeSpecular>
+					</Dye>
+				</VertexStream>
+    		<Texture name="00GG01_01"></Texture>
+    </VertexPackage>
+    </VertexPile>
+</SubObject>
+<SubObject name="003"  isMeshLOD ="true"  rotateType="0" isVisiable="true" EquipmentType= "Other" EnablePhysics="true">
+    <translateX>0.0000</translateX>
+    <translateY>0.8779</translateY>
+    <translateZ>0.0000</translateZ>
+    <rotateX>0.0000</rotateX>
+    <rotateY>180.0000</rotateY>
+    <rotateZ>0.0000</rotateZ>
+    <scalX>1.0</scalX>
+    <scalY>1.0</scalY>
+    <scalZ>1.0</scalZ>
+    <VertexPile UsageLevel="0">
+    <VertexPackage UsagePriority="0" Distance="1000.0" UsageType="Static">
+    		<VertexStream name="HT00GG01_VV02H">
+					<Dye>
+              <DyeDiffuse><alpha>1.0</alpha>
+                  <red>0.80</red>
+                  <green>0.80</green>
+                  <blue>0.80</blue>
+              </DyeDiffuse>
+              <DyeSpecular Power="0.0" ><alpha>1.0</alpha>
+	          			<red>0.0</red>
+                  <green>0.00</green>
+                  <blue>0.00</blue>
+              </DyeSpecular>
+					</Dye>
+				</VertexStream>
+    		<Texture name="00GG01_01"></Texture>
+    </VertexPackage>
+    </VertexPile>
+</SubObject>
+<SubObject name="004"  isMeshLOD ="true"  rotateType="0" isVisiable="true" EquipmentType= "Grounding">
+    <translateX>0.3673</translateX>
+    <translateY>0.1115</translateY>
+    <translateZ>0.1967</translateZ>
+    <rotateX>0.0000</rotateX>
+    <rotateY>-90.0000</rotateY>
+    <rotateZ>0.0000</rotateZ>
+    <scalX>1.0</scalX>
+    <scalY>1.0</scalY>
+    <scalZ>1.0</scalZ>
+    <VertexPile UsageLevel="0">
+    <VertexPackage UsagePriority="0" Distance="1000.0" UsageType="Static">
+    		<VertexStream name="HT00GG01_DX03H">
+					<Dye>
+              <DyeDiffuse><alpha>1.0</alpha>
+                  <red>0.80</red>
+                  <green>0.80</green>
+                  <blue>0.80</blue>
+              </DyeDiffuse>
+              <DyeSpecular Power="0.0" ><alpha>1.0</alpha>
+	          			<red>0.0</red>
+                  <green>0.00</green>
+                  <blue>0.00</blue>
+              </DyeSpecular>
+					</Dye>
+				</VertexStream>
+    		<Texture name="DX01"></Texture>
+    </VertexPackage>
+    </VertexPile>
+</SubObject>

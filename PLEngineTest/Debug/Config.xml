@@ -1,0 +1,20 @@
+<Global>
+</Global>
+<PowerSection name="ML">
+	<Scene name="E0">
+	</Scene>
+	<Scene name="E1">
+	</Scene>
+	<Scene name="E2">
+	</Scene>
+	<Scene name="E3">
+	</Scene>
+	<Scene name="E4">
+	</Scene>
+	<Scene name="E5">
+	</Scene>
+	<Scene name="E6">
+	</Scene>
+	<Scene name="E7">
+	</Scene>
+</PowerSection>
